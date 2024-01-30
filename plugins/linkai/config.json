@@ -1,0 +1,28 @@
+{
+    "group_app_map": {
+            "AIGC你学我用交流群①": "YUChro1o",
+            "俞氏": "YUChro1o",
+            "明天广场小组群": "f3GLjmn9",
+            "AIGC分享交流为创新业态WCKJ⑤": "f3GLjmn9",
+            "⭐️PARTYALLIANCE星迈城派对联盟": "1CWZeZW0",
+            "上海滩老友记": "f3GLjmn9",
+            "摆烂世家Bailanciaga": "f3GLjmn9",
+            "中西文化": "f3GLjmn9",
+            "葳选在线京品分享群①": "f3GLjmn9",
+            "AIGC上海2群Mix" : "f3GLjmn9"
+    },
+    "midjourney": {
+        "enabled": true,
+        "auto_translate": true,
+        "img_proxy": true,
+        "max_tasks": 3,
+        "max_tasks_per_user": 1,
+        "use_image_create_prefix": true
+    },
+    "summary": {
+        "enabled": true,
+        "group_enabled": true,
+        "max_file_size": 5000,
+        "type": ["FILE", "SHARING"]
+    }
+}
