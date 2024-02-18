@@ -1,0 +1,6 @@
+{
+  "apiKey": "123456",
+  "apiUrl": "https://gapi.kjcoool.com/v1/chat/completions",
+  "channelId": "1204010386114875433",
+  "createImgPrefix": "画"
+}
